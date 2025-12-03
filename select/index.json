@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I LOVE MEでいられるように feat. 湊あくあ / ナナヲアカリ",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2025-12-03T16:43:59.379523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I LOVE MEでいられるように (feat.湊あくあ)",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/01_I_LOVE_MEでいられるように_(feat.湊あくあ)_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I LOVE MEでいられるように feat. 湊あくあ",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_I_LOVE_MEでいられるように_feat._湊あくあ_ナナヲアカリ.txt"
+    }
+  ]
+}
